@@ -1,4 +1,4 @@
-
+![logotipo do ReactJS](./icon-reactjs.svg)
 # Configurações do Ambiente
 
 ## Introdução
@@ -47,7 +47,7 @@ Seu uso é totalmente opcional;
 
 As seguintes configurações podem ser acessadas no VS Code apertando `Ctrl + Shift + P` (ou `cmd +` , digitando `Preferences: Open Settings (JSON)` e entrando na opção encontrada:
 
-![tela de configuração do vscode ](D:\repoCode\ws-frontend\rocketseat\nlw5-trilha-reactjs\arquivos\vscode_config.png)
+![tela de configuração do vscode ](./vscode_config.png)
 
 No arquivo JSON que abriu, adicione as seguintes configurações (certifique-se de adicionar dentro das chaves `{}`):
 
