@@ -93,3 +93,28 @@ Ex.: `props.children`
 
 ### Criando projeto com Next.js
 
+```powershell
+npx create-next-app podcastrnext
+```
+
+```powershell
+Inside that directory, you can run several commands:
+
+  yarn dev
+    Starts the development server.
+
+  yarn build
+    Builds the app for production.
+
+  yarn start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd podcastrnext
+  yarn dev
+```
+
+# Código da aula
+
+`#missaoespacial`
